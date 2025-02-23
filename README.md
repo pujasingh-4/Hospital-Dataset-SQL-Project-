@@ -1,6 +1,6 @@
 # Hospital-Dataset-SQL-Project-
 
-##SQL project on hospital data includes several important aspects:
+#SQL project on hospital data includes several important aspects:
 
 The main purpose of this project is to show case hospital management by performing key queries. I have taken the data from kaggle.The project focuses on a hospital database that stores essential details such as:
 Hospital Name
