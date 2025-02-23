@@ -1,6 +1,6 @@
 # Hospital-Dataset-SQL-Project-
 
-#SQL project on hospital data includes several important aspects:
+# SQL project on hospital data includes several important aspects:
 
 The main purpose of this project is to show case hospital management by performing key queries. I have taken the data from kaggle.The project focuses on a hospital database that stores essential details such as:
 Hospital Name
@@ -12,14 +12,14 @@ Admission & Discharge Dates
 Medical Expenses
 Steps Taken in Your Project
 
-#Database Creation
+# Database Creation
 Some major steps taken by me are given below:-
 1.Created a database named Hospital_data
 2.Defined a hospital table with relevant columns to store hospital-related data.
 3.Data Import & Exploration
 4.Queried all records from the hospital table using SELECT * FROM hospital;
 
-#Key Queries and Analys
+# Key Queries and Analys
 
 1.Total number of patients across all hospitals (SUM(patients_count))
 2.Average number of doctors in each hospital (AVG(doctors_count))
