@@ -19,7 +19,7 @@ Some major steps taken by me are given below:-
 3.Data Import & Exploration
 4.Queried all records from the hospital table using SELECT * FROM hospital;
 
-# Key Queries and Analys
+# Key Queries and Analysis 
 
 1.Total number of patients across all hospitals (SUM(patients_count))
 2.Average number of doctors in each hospital (AVG(doctors_count))
