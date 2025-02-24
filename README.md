@@ -1,3 +1,5 @@
+![17403649935211410673058118859152](https://github.com/user-attachments/assets/2d839416-2623-4804-8ee2-82331a686023)
+
 # Hospital-Dataset-SQL-Project-
 
 # SQL project on hospital data includes several important aspects:
